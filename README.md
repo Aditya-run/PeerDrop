@@ -1,6 +1,6 @@
-# PeerLink - P2P File Sharing Application
+# PeerDrop - P2P File Sharing Application
 
-PeerLink is a peer-to-peer file sharing application that allows users to share files directly between devices using a simple invite code system.
+PeerDrop is a peer-to-peer file sharing application that allows users to share files directly between devices using a simple invite code system.
 
 ## Project Structure
 
