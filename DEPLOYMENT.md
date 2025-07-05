@@ -1,6 +1,6 @@
-# PeerLink Deployment Guide
+# PeerDrop Deployment Guide
 
-This guide outlines several easy deployment options for the PeerLink application, covering both the Java backend and Next.js frontend.
+This guide outlines several easy deployment options for the PeerDrop application, covering both the Java backend and Next.js frontend.
 
 ## Deployment Options
 
